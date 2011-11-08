@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:title="Settings">
+
+<PreferenceScreen android:key="twitter_setting"
+				  android:title="接続状況">
+</PreferenceScreen>
+</PreferenceScreen>
